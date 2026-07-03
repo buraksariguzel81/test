@@ -1,4 +1,4 @@
-basic.clearScreen()
+let elma = 10
 basic.forever(function () {
 	
 })
